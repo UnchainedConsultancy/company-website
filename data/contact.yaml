@@ -1,0 +1,28 @@
+email: 'unchainedconsultancy@protonmail.com'
+phone: '+31 06 54626857'
+businessName: 'Unchained Consultancy'
+address: |
+  Gildestraat 95
+  2624AW Delft, Netherlands
+hours:
+  - day: Monday
+    open: 8:30am
+    close: 5:00pm
+  - day: Tuesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Wednesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Thursday
+    open: 8:30am
+    close: 5:00pm
+  - day: Friday
+    open: 8:30am
+    close: 5:00pm
+  - day: Saturday
+    open: Closed
+    close:
+  - day: Sunday
+    open: Closed
+    close:
