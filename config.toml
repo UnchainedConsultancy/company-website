@@ -1,3 +1,4 @@
+baseURL="https://unchainedconsultancy.github.io/company-website/"
 languageCode = "en-us"
 title = "Unchained Consultancy"
 themesDir = "themes"
