@@ -1,17 +1,19 @@
 ---
-title: 'Modern Hospital'
+title: 'Blockchain developers platform'
 date: 2018-11-18T12:33:46+10:00
 draft: false
-weight: 2
-heroHeading: 'Modern Hospital Design'
-heroSubHeading: 'Designing a new modern hospital wing'
-heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
-thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
+weight: 3
+heroHeading: 'Blockchain Developers platform'
+heroSubHeading: 'Kubernetes cluster in the cloud for dapp development'
+heroBackground: 'https://evolllution.com/wp-content/uploads/2014/11/sized_Schooling-for-Employment-How-Higher-Ed-Should-React-to-the-Growth-of-Coding-Academies-copy.jpeg'
+thumbnail: 'https://evolllution.com/wp-content/uploads/2014/11/sized_Schooling-for-Employment-How-Higher-Ed-Should-React-to-the-Growth-of-Coding-Academies-copy.jpeg'
+
+
 images: ['https://source.unsplash.com/random/400x600/?nature', 
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
+Kubernetes cluster in the cloud for fast dapp development. Cloud-hosted containerized blockchain, oracle and indexer nodes.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
 male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
