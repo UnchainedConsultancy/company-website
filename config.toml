@@ -13,7 +13,7 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_description = "Consultancy for blockchain technology."
     meta_og_title = "Unchained Consultancy"
     meta_og_type = "website"
     meta_og_url = "https://unchainedconsultancy.github.io/company-website/"
